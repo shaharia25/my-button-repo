@@ -1,0 +1,115 @@
+*{
+    margin-left: 2px;
+    margin-top: 1px;
+}
+div{
+    border:  2px solid black;
+    width: 500px;
+    height: 270px;
+    
+}
+.uber-button{
+    border: none;
+    background-color: black;
+    color:white;
+    height: 40px;
+    width: 140px;
+    font-size: 15px;
+}
+.amazon-button{
+    border: none;
+    border-radius: 18px;
+    background-color: rgb(255, 216 , 20);
+    color: black;
+    height: 40px;
+    width: 160px;
+    font-weight: bold;
+    cursor: grab;
+}
+.github-button{
+    border: 1px solid rgb(46,164,73);
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(46,164,73);
+    height: 40px;
+    width: 100px;
+    cursor: wait;
+
+}
+.bootstarp-button{
+    border:  1px solid rgb(121,82,179);
+    border-radius: 3px;
+    background-color:  rgb(121,82,179);
+    color: white;
+    height: 37px;
+    width: 100px;
+}
+.bootstarp-button1{
+    border: 1px solid  rgb(108,117,125);
+    background-color: white ;
+    border-radius: 4px;
+    color: rgb(108,117,125) ;
+    height: 37px;
+    width: 110px;
+    font-weight: bold;
+    margin-left: 5px;
+    cursor: progress ;
+}
+.linkedln-button{
+    border: 1px solid rgb(10,102,194);
+    background-color: rgb(10,102,194);
+    border-radius: 13px;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 220px;
+    margin-right: 8px;
+    cursor: not-allowed;
+}
+.linkeln-button1{
+    border: 1px solid rgb(10,102,194);
+    background-color: white;
+    border-radius: 13px;
+    color: rgb(10,102,194);
+    font-weight: bold;
+    height: 30px;
+    width: 70px;
+}
+/* first practice css apply */
+a{
+    color: rgb(0,113,133);
+    font-size: 20px;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(0,118,0);
+
+}
+h1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+span{
+    font-size: 25px;
+}
+.cart{
+    border: 1px solid rgb(255,216,20);
+    border-radius: 15px;
+    background-color: rgb(255, 216 , 20);
+    height: 35px;
+    width: 120px;
+    /* font-size: 15px; */
+    font-weight: bold;
+    margin-right: 10px;
+}
+.buy-now{
+    border: 1px solid rgb(255,164,20);
+    border-radius: 15px;
+    background-color: rgb(255,164,28);
+    height: 35px;
+    width: 120px;
+    /* font-size: 15px; */
+    font-weight: bold;
+
+}
